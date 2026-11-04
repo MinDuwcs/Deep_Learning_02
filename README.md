@@ -1,4 +1,4 @@
-# Deep Learning - Bài tập môn học
+# Deep Learning - Repo Bài Tập Môn Học
 
 Repository này dùng để tổng hợp và lưu trữ các bài tập trong quá trình học môn **Deep Learning**. Các bài tập được tổ chức dưới dạng tài liệu Word, phục vụ việc học tập, thực hành và ôn tập các kiến thức đã học.
 
